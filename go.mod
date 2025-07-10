@@ -23,7 +23,7 @@ require (
 	github.com/xtls/xray-core v1.250306.1-0.20250331123338-ab5d7cf3d2d6
 	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.36.0
-	golang.org/x/sys v0.31.0
+	golang.org/x/sys v0.34.0
 	google.golang.org/protobuf v1.36.6
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 )
